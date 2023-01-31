@@ -42,13 +42,13 @@ body{
     font-weight: bold;
 }
 
-.movie-info span .green{
+.movie-info span.green{
     background-color: rgb(39, 182, 39);
 }
-.movie-info span .orange{
+.movie-info span.orange{
     background-color: orange;
 }
-.movie-info span .red{
+.movie-info span.red{
     background-color: red;
 }
 main {
